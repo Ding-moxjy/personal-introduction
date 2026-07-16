@@ -8,7 +8,7 @@
 <h1>Hi, I'm Ding</h1>
 <h4>Full-Stack Developer · Open Source Enthusiast</h4>
 
-热衷于用代码构建有价值的产品。目前专注于全栈开发与开发者工具，相信开源改变世界。
+我是一名初中生，就读于成都西川实验学校
 
 <a href="https://github.com/Ding-moxjy"><img src="https://img.shields.io/badge/GitHub-5E6AD2?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1A1A1E?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -45,9 +45,7 @@ $ cat status.txt
 
 **CURRENTLY**
 
-- 构建 — 开发者工具平台
-- 学习 — Rust & 分布式系统
-- 寻找 — 开源协作机会
+- 爱好 — 运动
 
 </td>
 </tr>
@@ -92,60 +90,6 @@ $ cat status.txt
 
 <img src="https://user-images.githubusercontent.com/73097560/115834431-1b43d500-a447-11eb-9c51-5ede930f0d0a.gif" width="100%" />
 
-<!-- ============ PROJECTS ============ -->
-<h3><code>// PROJECTS</code></h3>
-<h2>精选项目</h2>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Ding-moxjy">Project Alpha</a></h3>
-<p>实时协作编辑器，支持多人同时编辑与评论。</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" />
-</p>
-<p><b>1.2k</b> stars</p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Ding-moxjy">DevTools Kit</a></h3>
-<p>开发者工具集合，提升日常开发效率。</p>
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-000000?style=flat-square" />
-</p>
-<p><b>856</b> stars</p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Ding-moxjy">CloudDeploy</a></h3>
-<p>一键云端部署，支持主流云平台。</p>
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-</p>
-<p><b>432</b> stars</p>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834431-1b43d500-a447-11eb-9c51-5ede930f0d0a.gif" width="100%" />
-
-<!-- ============ STATS ============ -->
-<h3><code>// STATS</code></h3>
-<h2>数据</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ding-moxjy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=5E6AD2&icon_color=5E6AD2&text_color=A1A1AA" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ding-moxjy&theme=tokyonight&hide_border=true&background=0A0A0B&ring=5E6AD2&fire=5E6AD2&currStreakLabel=5E6AD2" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ding-moxjy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0B&title_color=5E6AD2&text_color=A1A1AA" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ding-moxjy&theme=react-dark&hide_border=true&bg_color=0A0A0B&color=5E6AD2&line=5E6AD2&point=FFFFFF" width="48%" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834431-1b43d500-a447-11eb-9c51-5ede930f0d0a.gif" width="100%" />
-
 <!-- ============ FOOTER ============ -->
 <p align="center">
 <b>Ding-moxjy</b> · Built with code and care.<br/>
@@ -157,9 +101,5 @@ $ cat status.txt
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ding-moxjy&label=Profile%20Views&color=5E6AD2&style=flat-square" />
 </p>
-
-  <a href="https://your-blog.com">Blog</a>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ding-moxjy&label=Profile%20Views&color=5E6AD2&style=flat-square" alt="Profile Views" />
 </p>
