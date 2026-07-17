@@ -18,7 +18,7 @@
 </td>
 <td valign="middle" align="center" width="35%">
 
-<img src="https://github.com/Ding-moxjy.png" width="140" style="border-radius: 50%;" alt="Ding's Avatar" />
+<a href="https://github.com/Ding-moxjy"><img src="https://github.com/Ding-moxjy.png" width="140" style="border-radius: 50%; border: none;" border="0" alt="Ding's Avatar" /></a>
 
 </td>
 </tr>
@@ -28,7 +28,11 @@
 
 <!-- ============ NAV ============ -->
 <p align="center">
-<a href="#top">🔝 顶部</a> · <a href="#about">📖 关于我</a> · <a href="https://github.com/Ding-moxjy">🐙 GitHub</a>
+<a href="#top">🔝 顶部</a><br/>
+<span style="color: #A1A1AA;">────────</span><br/>
+<a href="#about">📖 关于我</a><br/>
+<span style="color: #A1A1AA;">────────</span><br/>
+<a href="https://github.com/Ding-moxjy">🐙 GitHub</a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834431-1b43d500-a447-11eb-9c51-5ede930f0d0a.gif" width="100%" />
