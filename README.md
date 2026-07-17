@@ -18,7 +18,7 @@
 </td>
 <td valign="middle" align="center" width="35%">
 
-<a href="https://github.com/Ding-moxjy"><img src="https://github.com/Ding-moxjy.png" width="140" height="140" style="border-radius: 50%;" alt="Ding's Avatar" /></a>
+<a href="https://github.com/Ding-moxjy"><img src="./avatar.png" width="140" alt="Ding's Avatar" /></a>
 
 <br/>
 
