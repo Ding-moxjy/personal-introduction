@@ -1,5 +1,10 @@
 # personal-introduction
+<a id="top"></a>
 <!-- ============ HERO ============ -->
+<table>
+<tr>
+<td valign="top" width="65%">
+
 <h3><code>// HELLO WORLD</code></h3>
 <h1>Hi, I'm Ding</h1>
 <h4>西川实验学校 · 初中生</h4>
@@ -10,8 +15,25 @@
 <img src="https://img.shields.io/badge/WeChat-微信-07C160?style=flat-square&logo=wechat&logoColor=white" />
 <img src="https://img.shields.io/badge/QQ-QQ-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
 
+</td>
+<td valign="middle" align="center" width="35%">
+
+<img src="https://github.com/Ding-moxjy.png" width="140" style="border-radius: 50%;" alt="Ding's Avatar" />
+
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834431-1b43d500-a447-11eb-9c51-5ede930f0d0a.gif" width="100%" />
 
+<!-- ============ NAV ============ -->
+<p align="center">
+<a href="#top">🔝 顶部</a> · <a href="#about">📖 关于我</a> · <a href="https://github.com/Ding-moxjy">🐙 GitHub</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834431-1b43d500-a447-11eb-9c51-5ede930f0d0a.gif" width="100%" />
+
+<a id="about"></a>
 <!-- ============ ABOUT ============ -->
 <h3><code>// ABOUT</code></h3>
 <h2>关于我</h2>
@@ -41,5 +63,5 @@ GitHub · WeChat · QQ
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ding-moxjy&label=Profile%20Views&color=5E6AD2&style=flat-square" />
+<a href="#top">⬆ 回到顶部</a>
 </p>
